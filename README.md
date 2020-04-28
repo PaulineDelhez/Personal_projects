@@ -1,1 +1,1 @@
-This is a repository with my personal projects in Data Science.
+This is a repository with small personal projects in Data Science.
