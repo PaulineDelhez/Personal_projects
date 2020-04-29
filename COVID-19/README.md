@@ -4,6 +4,6 @@ This project is about visualization of COVID-19 data using Python.
 
 'COVID-19 bar chart race.ipynb' contains the detailed code to build a bar chart race with the total number of COVID-19 deaths per million people.
 
-'COVID19 bar chart race (GIF)' is the final animated bar chart.
+'COVID19 bar chart race.gif' is the final animated bar chart.
 
 
